@@ -48,24 +48,33 @@ __Only for Interviers eyes 👀__:
 <hr>
 
 # Tuesday - 6/2
-<details><summary>See pairs</sumary>
+
+## See pairs
+<details>
 </details>
 
 __Only for Interviers eyes 👀__:
 <details><summary>See problem prompt</sumary>
 </details>
+<hr>
 
 # Wednesday - 6/3
-<details><summary>See pairs</sumary>
+
+## See pairs
+<details>
 </details>
+<hr>
 
 __Only for Interviers eyes 👀__:
 <details><summary>See problem prompt</sumary>
 </details>
 
 # Thursday - 6/4
-<details><summary>See pairs</sumary>
+
+## See pairs
+<details>
 </details>
+<hr>
 
 __Only for Interviers eyes 👀__:
 <details><summary>See problem prompt</sumary>
