@@ -39,7 +39,6 @@ Read this [article](https://www.fullstackacademy.com/blog/how-to-ace-a-technical
   __Jordan Raleigh__ | Vasyl Semak
 
 </details>
-<hr>
 
 ## Problem prompt
 
