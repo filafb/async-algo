@@ -18,7 +18,7 @@ fib(1) return 1
 
 ### Interviewer Strategy Guide
 
-- Guide them toward the naive case - We don't need to optimize it for the very first solution. Also, this is a important step to see if them know how recursion works. If not, it's a great opportunity to teach them.
+- Guide them toward the naive case - They don't need to optimize it for the very first solution. Also, this is an important step to see if they know how recursion works. If not, it's a great opportunity to teach them.
 - During the `Examples` phase, guide them to draw the sequence we are looking for.
 
 `n` | 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7
