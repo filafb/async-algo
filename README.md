@@ -41,7 +41,7 @@ Read this [article](https://www.fullstackacademy.com/blog/how-to-ace-a-technical
 </details>
 <hr>
 
-__Only for Interviers eyes 👀__:
+__Only for interviewers eyes 👀__:
 <details><summary>See problem prompt</sumary>
 </details>
 
@@ -53,7 +53,7 @@ __Only for Interviers eyes 👀__:
 <details>
 </details>
 
-__Only for Interviers eyes 👀__:
+__Only for interviewers eyes 👀__:
 <details><summary>See problem prompt</sumary>
 </details>
 <hr>
@@ -65,7 +65,7 @@ __Only for Interviers eyes 👀__:
 </details>
 <hr>
 
-__Only for Interviers eyes 👀__:
+__Only for interviewers eyes 👀__:
 <details><summary>See problem prompt</sumary>
 </details>
 
@@ -76,6 +76,6 @@ __Only for Interviers eyes 👀__:
 </details>
 <hr>
 
-__Only for Interviers eyes 👀__:
+__Only for interviewers eyes 👀__:
 <details><summary>See problem prompt</sumary>
 </details>
