@@ -43,6 +43,9 @@ Read this [article](https://www.fullstackacademy.com/blog/how-to-ace-a-technical
 
 __Only for interviewers eyes 👀__:
 <details><summary>See problem prompt</sumary>
+
+Seriously, only [interviewers](https://github.com/filafb/async-algo/blob/master/01.monday_6-1/problem_prompt.md)
+
 </details>
 
 <hr>
