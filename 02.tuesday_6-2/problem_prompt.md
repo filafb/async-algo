@@ -1,5 +1,3 @@
-class: center middle
-
 # Dictionary Word Finder
 
 # Interviewer Prompt
