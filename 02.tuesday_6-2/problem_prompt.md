@@ -2,6 +2,8 @@
 
 # Interviewer Prompt
 
+_Feel free to share the prompt with the interviewee:_ https://repl.it/@FiladelfoBraz/Dictionary-Word-Finder#index.js
+
 Given an alphabetical array of dictionary entries and a word to search for, find that word's definition (if it exists). A dictionary entry is just a string where the word's name appears first, followed by ` - [definition]`.
 
 **It's totally fine to share the example below with the interviewee so they can understand the input example**

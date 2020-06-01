@@ -56,12 +56,12 @@ Find it [here](https://github.com/filafb/async-algo/blob/master/01.monday_6-1/pr
 
 Interviewer | Interviewee
 --- | ---
-__Cesar Done__ | Jordan Raleigh
-__Barish Poole__ | Aleksei Pavlov
+__Aleksei Pavlov__ | Ethan Cheng
+__Barish Poole__ | Cesar Done
 __Juan Mendoza__ | Shmuel Moskowicz
 __Uladzislau "Vlad" Chyrchanka__ | Jianna Park
 __Tim Kotowski__ | Daniel Sprague
-__Ethan Cheng__ | Courtney Edwards
+__Jordan Raleigh__ | Courtney Edwards
 
 </details>
 
