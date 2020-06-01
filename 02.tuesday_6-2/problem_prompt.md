@@ -52,7 +52,7 @@ definitionOf('wizbing', dictionary); // should return undefined
 
 # Brute force solution
 
-The naive (brute force) solution is to loop down the dictionary each time, looking for an entry that starts with the search word. This is `O(s * p)` time and `O(1)` space complexity, where `p` is the size of the dictionary and `p` is the average size of an entire entry.
+The naive (brute force) solution is to loop down the dictionary each time, looking for an entry that starts with the search word. This is `O(s * p)` time and `O(1)` space complexity, where `s` is the size of the dictionary and `p` is the average size of an entire entry.
 
 --
 
@@ -66,8 +66,10 @@ In reality, we know that the longest word is no longer than, say, 100 letters. T
 
 ```javascript
 function definitionOf(word, dictionary) {
+  // for loop for s, where s is dictionary.length
   for(let i = 0; i < dictionary.length; i++) {
     const entry = dictionary[i]
+    // slice loops over the string. It will have word.length steps
     const checkEntry = entry.slice(0,word.length)
     if(checkEntry === word) {
       return entry.slice(word.length + 3)
@@ -77,7 +79,7 @@ function definitionOf(word, dictionary) {
 }
 ```
 
-It's possible to use other JS methods to solve this problem, as `.startsWith`, `.substring`, `substr`, `.find`. It's fine if the interviewee use any of them, but it's important to note that we also have to consider the time complexity for these methods.
+It's possible to use other JS methods to solve this problem, as `.startsWith`, `.substring`, `substr`, `.find`. It's fine if the interviewee uses any of them, but it's important to note that we also have to consider the time complexity for these methods.
 
 ---
 
@@ -101,7 +103,7 @@ You can freely decide to let them struggle with these parts or to help them out 
 
 # Binary search solution
 
-The optimized binary search solution can be `O(p * log s)` time (`s` is dict array length, `p` is word length) and `O(1)` space.
+The optimized binary search solution can be `O(p * log s)` time (`s` is dict array length, `p` is word length) and `O(1)` space. Again, we can consider time complexity as `O(log s)` since word length doesn't grow arbitrarily large.
 
 ---
 
@@ -137,6 +139,12 @@ function definitionOf (word, dict) {
   return undefined
 }
 ```
+
+---
+---
+
+## Binary search visualization:
+
 ```js
 const dictExample = ["an", "bee", "car", "door", "entry", "floor", "gif"]
 const word = "car"
