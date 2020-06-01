@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 /**
  * PROMPT:
  *
@@ -111,3 +112,6 @@ function hasDuplicateOptm(arr) {
   }
   return false
 }
+
+console.log(hasDuplicateOptm([1,2,3,4,5]))
+console.log(hasDuplicateOptm(["a", "b","a"]))

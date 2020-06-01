@@ -53,11 +53,24 @@ Find it [here](https://github.com/filafb/async-algo/blob/master/01.monday_6-1/pr
 
 ## See pairs
 <details>
+
+Interviewer | Interviewee
+--- | ---
+__Cesar Done__ | Jordan Raleigh
+__Barish Poole__ | Aleksei Pavlov
+__Juan Mendoza__ | Shmuel Moskowicz
+__Uladzislau "Vlad" Chyrchanka__ | Jianna Park
+__Tim Kotowski__ | Daniel Sprague
+__Ethan Cheng__ | Courtney Edwards
+
 </details>
 
+## Problem prompt
+
 __Only for interviewers eyes 👀__:
-<details><summary>See problem prompt</sumary>
-</details>
+
+Find it [here](https://github.com/filafb/async-algo/blob/master/02.tuesday_6-2/problem_prompt.md)
+
 <hr>
 
 # Wednesday - 6/3
