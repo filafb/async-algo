@@ -43,7 +43,7 @@ Coaching advice for the interviewer to make sure that their interviewee is askin
 Coaching for the interviewer for how to help the interviewee while they're forming their approach and coding
 
 #### Example:
-* If your interviee is struggling, have them think about what a possible naive solution could be.
+* If your interviewee is struggling, have them think about what a possible naive solution could be.
 
 ---
 
