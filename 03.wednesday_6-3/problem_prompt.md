@@ -70,11 +70,13 @@ Coaching on what to do if interviewees finish, or additional questions/optimizat
 
 ## Solution and Explanation (a)
 
+## Brute force solution
+
 For the naive solution, we want to first start off by intializing a variable that stores the greatest profit margin we've encountered in our prices array so far. In the beginning, we would start maxProfit at 0 because we haven't done a comparison between price-points yet. We can utilize a nested for loop in order to compare the current price-point I'm at with every other element in our prices array. This is not efficient, however, because it requires us to do a price comparison with each element still left in our prices array against our current price-point.
 
 ---
 
-## Solution Code
+# Solution Code
 
 ```javascript
 const maxProfit = function(prices) {
@@ -102,6 +104,8 @@ Space complexity : O(1)
 ---
 
 ## Solution and Explanation (b)
+
+## Optimized Solution
 
 For the optimal solution, we will get the greatest profit with only one continous loop through our array. We will keep track of the smallest price-point we have seen so far. If we find a smaller price-point, we will swap out our minimum and continue comparing the remaining elements in our array with that new minimum. This saves us time complexity because we are always moving foward without having to create a nested for loop.
 
