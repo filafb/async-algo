@@ -63,6 +63,7 @@ __Uladzislau "Vlad" Chyrchanka__ | Jianna Park
 __Tim Kotowski__ | Daniel Sprague
 __Jordan Raleigh__ | Courtney Edwards
 
+
 </details>
 
 ## Problem prompt
@@ -77,12 +78,25 @@ Find it [here](https://github.com/filafb/async-algo/blob/master/02.tuesday_6-2/p
 
 ## See pairs
 <details>
+
+Interviewer | Interviewee
+--- | ---
+__Cesar Done__ | Uladzislau "Vlad" Chyrchanka
+__Shmuel Moskowicz__ | Aleksei Pavlov
+__Jianna Park__ | Ethan Cheng
+__Daniel Sprague__ | Juan Mendoza
+__Courtney Edwards__ | Barish Poole
+__Jordan Raleigh__ | Tim Kotowski
+
 </details>
-<hr>
+
+## Problem prompt
 
 __Only for interviewers eyes 👀__:
-<details><summary>See problem prompt</sumary>
-</details>
+
+Find it [here](https://github.com/filafb/async-algo/blob/master/03.wednesday_6-3/problem_prompt.md)
+
+<hr>
 
 # Thursday - 6/4
 
