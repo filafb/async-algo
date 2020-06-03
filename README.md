@@ -102,9 +102,22 @@ Find it [here](https://github.com/filafb/async-algo/blob/master/03.wednesday_6-3
 
 ## See pairs
 <details>
+
+Interviewer | Interviewee
+--- | ---
+__Aleksei Pavlov__ | Daniel Sprague
+__Barish Poole__ | Jianna Park
+__Juan Mendoza__ | Jordan Raleigh
+__Uladzislau "Vlad" Chyrchanka__ | Courtney Edwards
+__Ethan Cheng__ | Shmuel Moskowicz
+__Fila__ | Cesar Done
+
 </details>
 <hr>
 
+## Problem prompt
+
 __Only for interviewers eyes 👀__:
-<details><summary>See problem prompt</sumary>
-</details>
+
+Find it [here](https://github.com/filafb/async-algo/blob/master/04.thursday_6-4/problem_prompt.md)
+
