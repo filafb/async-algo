@@ -121,3 +121,20 @@ __Only for interviewers eyes 👀__:
 
 Find it [here](https://github.com/filafb/async-algo/blob/master/04.thursday_6-4/problem_prompt.md)
 
+# Summary
+
+Below is a summary of some techniques we used this week that are also useful for a different range of problems. 
+
+**Day 1: Fibonacci sequence**
+
+  - Recursion
+  - Memoization
+
+**Day 2: Dictionary Word Finder**
+  - Binary search (if you have to search something and the prompt says the entry is ordered, it always should ring the bell for Binary search!)
+
+**Day 3: Best Time to Buy and Sell Stock**
+  - Compare pairs in a constant time anchoring the value to be compared to.
+
+**Day 4: intersection**
+  - Using pointers to move indexes along one or more arrays (works for strings too) -> good starting point for a powerful technique called sliding window (see examples here: https://leetcode.com/problems/find-all-anagrams-in-a-string/discuss/92007/Sliding-Window-algorithm-template-to-solve-all-the-Leetcode-substring-search-problem.)
